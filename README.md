@@ -1,4 +1,4 @@
-Hi, I’m Zion "Sean" Ko
+Hi, I’m Zion 'Sean' Ko
 
 Education:
   University of Massachusetts, Lowell, MA
