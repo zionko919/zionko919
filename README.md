@@ -1,4 +1,4 @@
-Hi, I’m Zion Ko
+Hi, I’m Zion "Sean" Ko
 
 Education:
   University of Massachusetts, Lowell, MA
@@ -9,3 +9,5 @@ Education:
   Majors: Business Administration and Marketing 
 
 Fluent in Korean and English
+
+Email: zionko919@gmail.com 
