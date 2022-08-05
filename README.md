@@ -11,8 +11,7 @@ Education:<br />
   - Concentration: Business Administration and Marketing 
 <br />
 <br />
-<br />
 Fluent in Korean and English<br />
 Software: (proficient): C++, JavaScript, Python. (familiar): C, HTML/CSS, WebGL, SQL
-
+<br />
 Email: zionko919@gmail.com 
