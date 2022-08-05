@@ -1,14 +1,14 @@
 Hi, I’m Zion 'Sean' Ko
-<pre>
-Education:
-<pre>
-  University of Massachusetts, Lowell, MA
-  Bachelor of Science in Computer Science, June 2021 
-  Language Used C/C++, Python, Javascript
+<br />
+Education:<br />
+  University of Massachusetts, Lowell, MA<br />
+  Bachelor of Science in Computer Science, June 2021 <br />
+  Language Used C/C++, Python, Javascript<br />
+
   
   Bachelor of Science in Business Administration, August 2018 
   Majors: Business Administration and Marketing 
-
+<br />
 Fluent in Korean and English
 
 Email: zionko919@gmail.com 
