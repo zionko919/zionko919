@@ -1,6 +1,7 @@
 Hi, I’m Zion 'Sean' Ko
-
+<pre>
 Education:
+<pre>
   University of Massachusetts, Lowell, MA
   Bachelor of Science in Computer Science, June 2021 
   Language Used C/C++, Python, Javascript
