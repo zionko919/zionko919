@@ -1,7 +1,6 @@
-**Hi, I’m Zion 'Sean' Ko
-**<br />
+Hi, I’m Zion 'Sean' Ko
+<br />
 <br/>
-
 Education:<br />
   University of Massachusetts, Lowell, MA<br />
   - Bachelor of Science in Computer Science, June 2021 <br />
